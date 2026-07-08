@@ -16,7 +16,7 @@ I'm **Lokesh Kumawat**, a passionate Full-Stack Developer from Jaipur, India, cu
 
 ## 📊 My GitHub Stats
 
-![Lokesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lokeshkumawat01&show_icons=true&theme=radical)
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshkumawat01&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokeshkumawat01&theme=radical)
 
