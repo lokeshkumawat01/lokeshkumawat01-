@@ -1,11 +1,14 @@
-# Hi there! 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lokesh+%F0%9F%91%8B;Full-Stack+Developer;Python+%7C+Django+%7C+React.js)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lokeshkumawat01&color=blueviolet&style=flat)
 
 I'm **Lokesh Kumawat**, a passionate Full-Stack Developer from Jaipur, India, currently pursuing B.Tech in Computer Science Engineering.
 
 - 🔭 I'm currently working on **AI-Powered School Management System** (Next.js, Django, PostgreSQL)
-- 🌱 I'm currently learning advanced **Django REST Framework** and **AI/ML integrations**
+- 🎓 I'm currently learning advanced **Django REST Framework** and **AI/ML integrations**
 - 💼 Previously worked as Frontend Developer @ Coding Media and React.js Intern @ Celebal Technologies
 - 🏆 HackerRank 5⭐ Gold Badge in Problem Solving & Python (300+ challenges solved)
+- ☁️ Google Cloud: Completed Cloud Engineering Milestones (VMs, Kubernetes, Cloud Storage)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lokesh-kumawat-192606265/)
 - ⚡ Fun fact: I build full-stack apps with AI features integrated end-to-end
 
@@ -16,6 +19,14 @@ I'm **Lokesh Kumawat**, a passionate Full-Stack Developer from Jaipur, India, cu
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshkumawat01&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokeshkumawat01&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshkumawat01&layout=compact&theme=radical)
+
+---
+
+## 🏆 Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=lokeshkumawat01&theme=radical&no-frame=true&row=1&column=6)
 
 ---
 
@@ -42,4 +53,8 @@ These are some of the languages, tools, and frameworks I'm familiar with:
 
 ---
 
-If you're interested in collaborating on a project or just want to say hi, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/lokesh-kumawat-192606265/). Thanks for visiting! 😊
+### 📫 Let's Connect
+
+If you're interested in collaborating on a project or just want to say hi, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lokesh-kumawat-192606265/). Thanks for visiting! 😊
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
